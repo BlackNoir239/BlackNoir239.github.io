@@ -4,8 +4,8 @@
     padding: 0;
     border: 0;
 }
-div{
-    height: 700px;
+div {
+    max-height: fit-content;
 }
 .container{
     display: flex;
